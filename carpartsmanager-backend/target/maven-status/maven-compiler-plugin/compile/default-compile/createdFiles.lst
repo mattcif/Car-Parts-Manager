@@ -1,0 +1,6 @@
+com\mattcif\carpartsmanager_backend\controller\PecaCarroController.class
+com\mattcif\carpartsmanager_backend\CarpartsmanagerBackendApplication.class
+com\mattcif\carpartsmanager_backend\service\serviceImpl\PecaCarroServiceImpl.class
+com\mattcif\carpartsmanager_backend\service\PecaCarroService.class
+com\mattcif\carpartsmanager_backend\model\PecaCarro.class
+com\mattcif\carpartsmanager_backend\repository\PecaCarroRepository.class

@@ -1,0 +1,12 @@
+﻿ID;"Nome";"Código";"Fabricante";"Veículo";"Estoque";"Preço";"Categoria";"DataCadastro"
+1;"Filtro de Óleo";"FO123";"Bosch";"Fiat Uno";50;25,90;"Motor";2025-06-05
+2;"Filtro de Óleo";"FO124";"Bosch";"Fiat Uno";40;27,90;"Motor";2025-06-05
+3;"Pastilha de Freio";"PF456";"Cobreq";"Volkswagen Gol";30;89,90;"Freio";2025-06-05
+4;"Pastilha de Freio";"PF457";"Cobreq";"Volkswagen Gol";25;87,00;"Freio";2025-06-05
+5;"Amortecedor Dianteiro";"AD789";"Monroe";"Chevrolet Onix";20;320,00;"Suspensão";2025-06-05
+6;"Amortecedor Traseiro";"AT788";"Monroe";"Chevrolet Onix";18;310,00;"Suspensão";2025-06-05
+7;"Correia Dentada";"CD321";"Gates";"Ford Ka";15;75,50;"Motor";2025-06-05
+8;"Correia Dentada";"CD322";"Gates";"Ford Ka";10;78,00;"Motor";2025-06-05
+9;"Vela de Ignição";"VI654";"NGK";"Fiat Uno";40;19,90;"Ignição";2025-06-05
+10;"Vela de Ignição";"VI655";"NGK";"Fiat Uno";35;21,00;"Ignição";2025-06-05
+11;"Filtro de Óleo ";"FLT-123-123";"Continental";"Honda Civic";5;20,00;"Transmissão";2025-06-05

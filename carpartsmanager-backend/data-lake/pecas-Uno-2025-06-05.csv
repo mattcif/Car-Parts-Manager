@@ -1,0 +1,5 @@
+﻿ID;"Nome";"Código";"Fabricante";"Veículo";"Estoque";"Preço";"Categoria";"DataCadastro"
+1;"Filtro de Óleo";"FO123";"Bosch";"Fiat Uno";50;25,90;"Motor";2025-06-05
+2;"Filtro de Óleo";"FO124";"Bosch";"Fiat Uno";40;27,90;"Motor";2025-06-05
+9;"Vela de Ignição";"VI654";"NGK";"Fiat Uno";40;19,90;"Ignição";2025-06-05
+10;"Vela de Ignição";"VI655";"NGK";"Fiat Uno";35;21,00;"Ignição";2025-06-05

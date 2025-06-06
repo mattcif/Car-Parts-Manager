@@ -1,0 +1,94 @@
+/* Estilos gerais */
+.container-fluid {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+/* Estilos de cards */
+.card {
+    margin-bottom: 1.5rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.card-header {
+    padding: 1rem;
+    font-weight: 500;
+}
+
+/* Gradientes para headers */
+.header-gradient-purple {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.header-gradient-pink {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    color: white;
+}
+
+/* Estilos para gráficos */
+.chart-container {
+    width: 100%;
+    height: 300px;
+}
+
+.chart-wrapper {
+    min-height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Estilos para tabela */
+.table-responsive {
+    overflow-x: auto;
+}
+
+.table th {
+    white-space: nowrap;
+}
+
+.code-badge {
+    background-color: #f8f9fa;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-family: monospace;
+}
+
+/* Estilos para loading */
+.loading-container {
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Estilos para modal */
+.modal-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Estilos para ícones */
+.icon-large {
+    font-size: 1.5rem;
+    opacity: 0.5;
+}
+
+.icon-xl {
+    font-size: 2.5rem;
+}
+
+/* Estilos para estados vazios */
+.empty-state {
+    text-align: center;
+    padding: 3rem 1rem;
+}
+
+/* Estilos para botões de ação */
+.action-buttons {
+    display: flex;
+    gap: 0.25rem;
+    justify-content: center;
+}

@@ -2,7 +2,6 @@
 
 Um sistema completo de gerenciamento de peças automotivas desenvolvido com **Spring Boot** (backend) e **React** (frontend). Gerencie seu estoque de peças com facilidade, visualize estatísticas em tempo real e exporte dados para análise.
 
-![Car Parts Manager](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Java](https://img.shields.io/badge/Java-17+-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0+-green)
 ![React](https://img.shields.io/badge/React-18+-blue)

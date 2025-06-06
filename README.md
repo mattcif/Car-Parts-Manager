@@ -119,13 +119,10 @@ Frontend: `http://localhost:5173`
 ## 📊 Screenshots
 
 ### 🏠 Dashboard Principal
-![Dashboard](https://via.placeholder.com/800x400/667eea/ffffff?text=Dashboard+com+Gr%C3%A1ficos)
+![Dashboard](./assets/dashboard.png)
 
 ### 📝 Formulário de Cadastro
-![Cadastro](https://via.placeholder.com/800x400/4BC0C0/ffffff?text=Formul%C3%A1rio+de+Cadastro)
-
-### 📋 Lista de Peças
-![Lista](https://via.placeholder.com/800x400/FF6384/ffffff?text=Lista+de+Pe%C3%A7as)
+![Formulário de Cadastro](./assets/cadastro.png)
 
 ## 🔗 API Endpoints
 
